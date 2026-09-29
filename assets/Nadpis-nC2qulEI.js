@@ -1,0 +1,1 @@
+import{H as e}from"./index-olx5_Oar.js";var t=e();function n({as:e=`h2`,children:n,className:r=``}){return(0,t.jsx)(e,{className:`nadpis-maska ${r}`,"data-anim":!0,children:(0,t.jsx)(`span`,{children:(0,t.jsx)(`span`,{children:n})})})}function r({children:e}){return(0,t.jsx)(`div`,{className:`linka nabeh pt-3 udaj`,"data-anim":!0,children:e})}export{r as n,n as t};
